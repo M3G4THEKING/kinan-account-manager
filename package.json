@@ -10,7 +10,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "config": "^3.3.9",
+    "config": "^3.3.10",
     "knex": "^2.5.1",
     "mysql2": "^3.5.2"
   }
